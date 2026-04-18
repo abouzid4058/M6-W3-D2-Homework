@@ -45,8 +45,3 @@ src/
 ```
 
 ---
-
-## 📝 Submission
-
-- **Due:** This Sunday, 10:30 PM PT
-- **Submit:** Post GitHub URL on GAP Week 7 Day 2 Homework
